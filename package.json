@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "test-server",
   "version": "0.0.0",
   "scripts": {
     "build": "tsc",
